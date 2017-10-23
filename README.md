@@ -1,2 +1,2 @@
-# RGPOnlineExamSystem
-使用TeamBition进行团队协作
+# RGPOnlineExamSystem Web Api
+服务端，提供REST风格的api
