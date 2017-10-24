@@ -1,2 +1,3 @@
-# RGPOnlineExamSystem Web Api
-服务端，提供REST风格的api
+# RGPOnlineExamSystem
+项目分为WebApi和WebClient两部分
+WebApi提供RESTful接口，WebClient负责调用和前端UI
